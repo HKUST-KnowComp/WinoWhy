@@ -78,7 +78,7 @@ There are two data files in the repo:
 #### Category Reference
     Dataset: a dictionary. The key: values are:
 
-        "Property", "Object", "Eventuality", "Spatial", "Quantity", "Others"): a list of the indexes of the WSC questions.
+        "Property", "Object", "Eventuality", "Spatial", "Quantity", "Others": a list of the indexes of the WSC questions.
 
 ## Application of WinoWhy
 
