@@ -1,6 +1,6 @@
 # WinoWhy
 
-This is the github repo for ACL 2020 paper "WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for Answering Winograd Schema Challenge".
+This is the github repo for ACL 2020 paper "[WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for Answering Winograd Schema Challenge](https://arxiv.org/abs/2005.05763)".
 
 ## Dependency
 
